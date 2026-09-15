@@ -1,6 +1,12 @@
 # Sugary Dreams
 
-Official website for Sugary Dreams — a Brooklyn, NY bakery specializing in custom cakes and sweet treats.
+Brooklyn, NY custom cake website.
 
-Instagram: @sugaryydreams  
-Contact: aurora.ap99@gmail.com
+## Repository structure
+- `index.html`
+- `styles.css`
+- `script.js`
+- `Sugary Dreams.jpg` — logo
+- `images/` — real Sugary Dreams cake photography
+
+The website is configured to use the cake images directly from `images/`.
