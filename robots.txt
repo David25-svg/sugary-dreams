@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://david25-svg.github.io/sugary-dreams/sitemap.xml
